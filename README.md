@@ -1,2 +1,2 @@
-# -onsole-Snake
+# PrimitiveConsoleSnake
 Game: Snake.
